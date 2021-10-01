@@ -1,0 +1,16 @@
+GET http://localhost:5001/datingapp-48269/us-central1/api
+
+###
+POST  http://localhost:5001/datingapp-48269/us-central1/api
+Content-Type: application/json
+
+{
+    "name":"ANinik",
+    "col":"sdd"
+}
+
+###
+DELETE  http://localhost:5001/datingapp-48269/us-central1/api
+
+###
+PUT  http://localhost:5001/datingapp-48269/us-central1/api
